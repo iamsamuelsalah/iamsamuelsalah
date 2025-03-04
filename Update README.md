@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Samuel Salah!
 
 ## 💼 About Me  
 I’m a **Business Intelligence Analyst** with a background in **SQL, Python, and data visualization**. I specialize in turning raw data into actionable insights, helping businesses make data-driven decisions. Currently, I’m expanding my skills in **data engineering** and **automation** to optimize reporting and analytics.  
