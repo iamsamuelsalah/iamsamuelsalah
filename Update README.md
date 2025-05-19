@@ -20,4 +20,6 @@ I’m looking to participate in **outsourcing projects**, especially in **data a
 
 ## 🔗 Connect With Me  
 [![Gmail Badge](https://img.shields.io/badge/-iamsamuelsalah@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iamsamuelsalah@gmail.com)](mailto:iamsamuelsalah@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/samuel-salah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/samuel-salah/)](https://www.linkedin.com/in/www.linkedin.com/in/samuel-salah/) [![Github Badge](https://img.shields.io/badge/-iamsamuelsalah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iamsamuelsalah/)](https://www.github.com/iamsamuelsalah/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/iamsamuelsalah/)](https://github.com/iamsamuelsalah/) <p align='left'>
+- Portfolio: https://your-portfolio-link.com  
+- Resume: https://your-resume-link.com  
+- LinkedIn: https://www.linkedin.com/in/yourprofile  
